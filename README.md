@@ -21,8 +21,10 @@ I added conditional formatting that will highlight positive changes in green and
 In the last step, I located the stock with the "Greatest % increase", "Greatest % Decrease" and "Greatest total volume" and entered the information in the specified columns.
 
 
-
-
+![Screenshot_985](https://github.com/Adykey79/VBA-challenge/assets/149746353/d484aea2-d98a-4a88-bcf5-de180c77aabc)
+![Screenshot_988](https://github.com/Adykey79/VBA-challenge/assets/149746353/2d964ae1-c1d4-4331-bb75-d755c041d67e)
+![Screenshot_987](https://github.com/Adykey79/VBA-challenge/assets/149746353/a59937dc-7a93-4670-896f-efb9bf6fbaf2)
+![Screenshot_986](https://github.com/Adykey79/VBA-challenge/assets/149746353/2976ee97-d9aa-4e5c-9845-529e5e6dc483)
 
 
 
